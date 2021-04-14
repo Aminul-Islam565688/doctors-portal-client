@@ -1,0 +1,28 @@
+.login-bg {
+  background-image: url(../../../images/loginBg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 50px;
+  height: 553px;
+  width: 500px;
+}
+.login-form {
+  margin-left: 20px;
+}
+.login-form input {
+  border: 2px solid lightgray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 5px;
+  outline: none;
+  width: 85%;
+  height: 50px;
+}
+
+.login-btn {
+  margin-top: 30px !important;
+}
+.text-login {
+  margin-left: 175px;
+}

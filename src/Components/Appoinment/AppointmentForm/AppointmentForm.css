@@ -1,0 +1,22 @@
+.modal-main {
+  /* border-radius: 10px; */
+}
+.modal-form {
+  padding: 15px 70px;
+}
+.modal-form-input {
+  margin: 5px auto;
+  width: 400px;
+  padding: 10px;
+  border: 1px solid lightgray;
+  outline: none;
+  border-radius: 4px;
+}
+.modal-btn {
+  outline: none;
+  border: none;
+  font-size: 20px;
+  padding: 10px 50px;
+  border-radius: 5px;
+  float: right;
+}
